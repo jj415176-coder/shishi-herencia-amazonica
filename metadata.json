@@ -1,0 +1,6 @@
+{
+  "name": "Herencia Amazónica - Piqueos y Bebidas",
+  "description": "SHISHI HERENCIA AMAZÓNICA: Piqueo Regional y Frozen Amazónico de maracuyá, camu camu y limón. Pedidos al WhatsApp +51 933 846 182.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
